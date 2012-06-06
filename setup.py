@@ -9,11 +9,12 @@ NEWS = open(os.path.join(here, 'NEWS.txt')).read()
 version = '0.1'
 
 install_requires = [
-    'nose', 'nosexcover'
+    'nose', 'nosexcover', 'setuptools-clonedigger', 'setuptools-flakes',
+    'setuptools-lint', 'setuptools-sloccount',
 ]
 
 
-setup(name='setuptools_continuousintegration',
+setup(name='setuptools-ci',
     version=version,
     description="Adds everything for continuous integration",
     long_description=README + '\n\n' + NEWS,
