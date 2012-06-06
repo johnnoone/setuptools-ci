@@ -7,10 +7,10 @@ It will install :
 
 * `nose`_ for unit testing
 * `nosexcover`_ for code coverage
-* `setuptools-clonedigger`_ for code coverage
-* `setuptools-flakes`_ for code coverage
-* `setuptools-lint`_ for code coverage
-* `setuptools-sloccount`_ for code coverage
+* `setuptools-clonedigger`_ for detecting similar code
+* `setuptools-flakes`_ for analyze and detect various errors
+* `setuptools-lint`_ for code quality
+* `setuptools-sloccount`_ for counting physical source lines of code
 
 .. _`nose` : http://pypi.python.org/pypi/nose/1.1.2
 .. _`nosexcover` : http://pypi.python.org/pypi/nosexcover
