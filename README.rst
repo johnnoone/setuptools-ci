@@ -12,12 +12,12 @@ It will install :
 * `setuptools-lint`_ for code coverage
 * `setuptools-sloccount`_ for code coverage
 
-.. _`nose`_ : http://pypi.python.org/pypi/nose/1.1.2
-.. _`nosexcover`_ : http://pypi.python.org/pypi/nosexcover
-.. _`setuptools-clonedigger`_ : http://pypi.python.org/pypi/setuptools-clonedigger
-.. _`setuptools-flakes`_ : http://pypi.python.org/pypi/setuptools-flakes
-.. _`setuptools-lint`_ : http://pypi.python.org/pypi/setuptools-lint
-.. _`setuptools-sloccount`_ : http://pypi.python.org/pypi/setuptools-sloccount
+.. _`nose` : http://pypi.python.org/pypi/nose/1.1.2
+.. _`nosexcover` : http://pypi.python.org/pypi/nosexcover
+.. _`setuptools-clonedigger` : http://pypi.python.org/pypi/setuptools-clonedigger
+.. _`setuptools-flakes` : http://pypi.python.org/pypi/setuptools-flakes
+.. _`setuptools-lint` : http://pypi.python.org/pypi/setuptools-lint
+.. _`setuptools-sloccount` : http://pypi.python.org/pypi/setuptools-sloccount
 
 
 Usage
